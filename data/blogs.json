@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b1",
+    "title": "Summer Fashion Trends 2025",
+    "date": "2025-06-10",
+    "img": "img/Blog/b1.jpg",
+    "excerpt": "Discover the hottest fashion styles to rock this summer and how to style them effortlessly."
+  },
+  {
+    "id": "b2",
+    "title": "How to Pick the Right T-Shirt",
+    "date": "2025-05-20",
+    "img": "img/Blog/b2.jpg",
+    "excerpt": "Choosing the perfect T-shirt depends on fit, fabric, and comfort. Learn our top tips."
+  },
+  {
+    "id": "b3",
+    "title": "Top 5 Streetwear Brands in 2025",
+    "date": "2025-04-15",
+    "img": "img/Blog/b3.jpg",
+    "excerpt": "Streetwear dominates 2025 fashion. Here are the brands setting the tone this year."
+  },
+  {
+    "id": "b4",
+    "title": "Sustainable Fashion Choices",
+    "date": "2025-03-28",
+    "img": "img/Blog/b4.jpg",
+    "excerpt": "Eco-friendly fabrics and ethical shopping are taking over the fashion industry."
+  },
+  {
+    "id": "b5",
+    "title": "The Return of Vintage Style",
+    "date": "2025-02-12",
+    "img": "img/Blog/b5.jpg",
+    "excerpt": "Vintage clothing is making a huge comeback this year. See how to style retro outfits."
+  },
+  {
+    "id": "b6",
+    "title": "Winter Wardrobe Essentials",
+    "date": "2025-01-05",
+    "img": "img/Blog/b6.jpg",
+    "excerpt": "Stay warm and stylish with these must-have winter wardrobe essentials."
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "f1",
+    "name": "Cartoon Astronaut T-shirt",
+    "brand": "Adidas",
+    "price": "$78",
+    "img": "img/Products/f1.jpg"
+  },
+  {
+    "id": "f2",
+    "name": "Casual Cotton Shirt",
+    "brand": "Nike",
+    "price": "$55",
+    "img": "img/Products/f2.jpg"
+  },
+  {
+    "id": "f3",
+    "name": "Trendy Summer Top",
+    "brand": "Puma",
+    "price": "$89",
+    "img": "img/Products/f3.jpg"
+  },
+  {
+    "id": "f4",
+    "name": "Classic Polo Shirt",
+    "brand": "Lacoste",
+    "price": "$120",
+    "img": "img/Products/f4.jpg"
+  },
+  {
+    "id": "f5",
+    "name": "Oversized Graphic Tee",
+    "brand": "Zara",
+    "price": "$60",
+    "img": "img/Products/f5.jpg"
+  },
+  {
+    "id": "f6",
+    "name": "Slim Fit Jeans",
+    "brand": "Levi's",
+    "price": "$110",
+    "img": "img/Products/f6.jpg"
+  },
+  {
+    "id": "f7",
+    "name": "Casual Hoodie",
+    "brand": "H&M",
+    "price": "$75",
+    "img": "img/Products/f7.jpg"
+  },
+  {
+    "id": "f8",
+    "name": "Stylish Leather Jacket",
+    "brand": "Diesel",
+    "price": "$220",
+    "img": "img/Products/f8.jpg"
+  },
+  {
+    "id": "n1",
+    "name": "Running Sneakers",
+    "brand": "Adidas",
+    "price": "$150",
+    "img": "img/Products/n1.jpg"
+  },
+  {
+    "id": "n2",
+    "name": "High-Top Trainers",
+    "brand": "Nike",
+    "price": "$180",
+    "img": "img/Products/n2.jpg"
+  },
+  {
+    "id": "n3",
+    "name": "Casual Sports Shoes",
+    "brand": "Reebok",
+    "price": "$95",
+    "img": "img/Products/n3.jpg"
+  },
+  {
+    "id": "n4",
+    "name": "Classic White Sneakers",
+    "brand": "Converse",
+    "price": "$85",
+    "img": "img/Products/n4.jpg"
+  },
+  {
+    "id": "n5",
+    "name": "Sporty Running Jacket",
+    "brand": "Nike",
+    "price": "$130",
+    "img": "img/Products/n5.jpg"
+  },
+  {
+    "id": "n6",
+    "name": "Lightweight Windbreaker",
+    "brand": "Adidas",
+    "price": "$115",
+    "img": "img/Products/n6.jpg"
+  },
+  {
+    "id": "n7",
+    "name": "Casual Denim Jacket",
+    "brand": "Levi's",
+    "price": "$145",
+    "img": "img/Products/n7.jpg"
+  },
+  {
+    "id": "n8",
+    "name": "Classic Bomber Jacket",
+    "brand": "H&M",
+    "price": "$125",
+    "img": "img/Products/n8.jpg"
+  }
+]
